@@ -1,0 +1,15 @@
+.DS_Store
+node_modules
+dist
+coverage
+.env
+.env.local
+.vite
+*.log
+
+.env
+combined.log
+errors.log
+.agent
+.agents
+.dist
